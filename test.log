@@ -18378,5 +18378,4 @@ Tasks: 200 total,   2 running, 124 sleeping,   0 stopped,   0 zombie
 %Cpu(s): 12.4 us,  0.0 sy,  0.0 ni, 87.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
 KiB Mem : 32843380 total, 17054328 free,   385756 used, 15403296 buff/cache
 --
-  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
-12089 freshman  20   0   
+  PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND 
